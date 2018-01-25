@@ -10,3 +10,6 @@ Deliverables:
 5. a README.md file that explains the coding challenge.
 6. Any notes/slides created
 7. Link to repository if it was created in another repository
+
+
+Our Coding challenge is to create a simple terrain generator using perlin noise
